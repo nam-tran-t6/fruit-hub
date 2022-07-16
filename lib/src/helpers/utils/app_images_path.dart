@@ -1,0 +1,31 @@
+class AppImagePath {
+  static const add_icon = 'assets/images/add_icon.png';
+  static const auth_basket_shadow = 'assets/images/auth_basket_shadow.png';
+  static const auth_fruit_basket = 'assets/images/auth_fruit_basket.png';
+  static const currency_unit_icon = 'assets/images/currency_unit_icon.png';
+  static const heart_icon = 'assets/images/heart_icon.png';
+  static const home_basket = 'assets/images/home_basket.png';
+  static const home_expand = 'assets/images/home_expand.png';
+  static const home_history = 'assets/images/home_history.png';
+  static const home_search = 'assets/images/home_search.png';
+  static const honey_lime_combo = 'assets/images/honey_lime_combo.png';
+  static const welcome_basket_shadow = 'assets/images/welcome_basket_shadow.png';
+  static const welcome_fruit_basket = 'assets/images/welcome_fruit_basket.png';
+  static const welcome_fruit_drop = 'assets/images/welcome_fruit_drop.png';
+  static const welcome_img = 'assets/images/welcome_img.png';
+  static const congratulation_group_icon = 'assets/images/congratulation_group_icon.png';
+  static const ship_from_icon = 'assets/images/ship_from_icon.png';
+  static const ship_to_icon = 'assets/images/ship_to_icon.png';
+  static const shipper_icon = 'assets/images/shipper_icon.png';
+  static const close_bottom_sheet_icon = 'assets/images/close_bottom_sheet_icon.png';
+  static const order_is_being_delivered = 'assets/images/order_is_being_delivered.png';
+  static const order_is_being_prepared = 'assets/images/order_is_being_prepared.png';
+  static const order_received = 'assets/images/order_received.png';
+  static const order_taken = 'assets/images/order_taken.png';
+  static const fruit_drawer_background = 'assets/images/fruit_drawer_background.jpg';
+  static const icon_home = 'assets/images/icon_home.png';
+  static const icon_profile = 'assets/images/icon_profile.png';
+  static const icon_dark_mode = 'assets/images/icon_dark_mode.png';
+  static const icon_help = 'assets/images/icon_help.png';
+  static const icon_logout = 'assets/images/icon_logout.png';
+}
